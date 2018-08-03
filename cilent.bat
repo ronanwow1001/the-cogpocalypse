@@ -1,5 +1,4 @@
-echo off
-cd..
+@echo off
 
 title THE TTM ENGINE
 
@@ -12,7 +11,7 @@ set /P PPYTHON_PATH=<PPYTHON_PATH
 
 rem Get the user input:
 set /P ttiUsername="Username: "
-title RTTIM Client (%ttiUsername%)
+title TTM Client (%ttiUsername%)
 set /P TTI_GAMESERVER="Gameserver (DEFAULT: localhost): " || ^
 
 rem Export the environment variables:
