@@ -9,5 +9,5 @@ step 7 convert "gravity falls.mf" to zip and rename to phase_16
 step 8 run the starting files and boom enjoy!!!! lol 
 
   WARNING:
-do not make "gravity falls.mf" aka phase_16 into a compressed folder this is basicily its a content pack
+do not make "gravity falls.mf" aka phase_16 into a compressed folder p.s this is basicily its a content pack
 ok enjoy!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
