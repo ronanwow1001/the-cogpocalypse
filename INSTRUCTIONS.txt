@@ -1,0 +1,10 @@
+  INSTRUCTIONS:
+
+step 1 download this project
+step 2 extract it 
+step 3 download MTTPAM
+step 4 extract it
+step 5 if done move all folders in the project
+step 6 move gravity falls.mf to resources folders
+step 7 convert to .zip and then rename to phase_16
+step 8 run the starting files and boom enjoy!!!! lol 
