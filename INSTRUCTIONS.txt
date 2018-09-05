@@ -9,5 +9,4 @@ step 7 convert "phase_14.mf" to zip and rename to
 step 8 run the starting files and boom enjoy!!!! lol 
 
   WARNING:
-do not make "phase_14.mf" into a compressed folder p.s this is basicily its a content pack
-ok enjoy!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+do not download the release!!!!!!!!!!!!!!!!
