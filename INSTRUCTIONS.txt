@@ -5,8 +5,9 @@ step 2 extract it
 step 3 download MTTPAM
 step 4 extract it
 step 6 move "phase_14.mf" to resources folder
-step 7 convert "phase_14.mf" to zip and rename to 
-step 8 run the starting files and boom enjoy!!!! lol 
+step 7 convert "phase_14.mf" to .zip
+step 8 then merge it
+step 9 run the starting files and boom enjoy!!!! lol 
 
   WARNING:
 do not download the release!!!!!!!!!!!!!!!!
